@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2456D6,100:8CC63E&height=180&section=header&text=SISILI%20GROUP%20IT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Solutions%20%26%20Software%20Development%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=55&descSize=16" width="100%"/>
+# [<font color="8CC63E">SISILI GROUP IT</font>](https://github.com/sisiligroupit/sisiligroupit)
 
 </div>
 
@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/sisiligroupit/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:info@sisiligroupit.com">
+  <a href="mailto:punsath.v@sisiliprojects.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -40,7 +40,7 @@ const sisiliGroupIT = {
   location : "Sri Lanka 🇱🇰",
   services : ["Web Development", "Software Solutions", "IT Consulting", "Cloud & Infrastructure"],
   mission  : "Building reliable, scalable technology for growing businesses",
-  contact  : "info@sisiligroupit.com",
+  contact  : "punsath.v@sisiliprojects.com",
 };
 ```
 
@@ -108,7 +108,7 @@ const sisiliGroupIT = {
 - 👥 A growing team of engineers & designers
 
 ### 📬 Get In Touch
-- ✉️ [info@sisiligroupit.com](mailto:info@sisiligroupit.com)
+- ✉️ [punsath.v@sisiliprojects.com](mailto:punsath.v@sisiliprojects.com)
 - 💼 [LinkedIn](https://www.linkedin.com/company/sisiligroupit/)
 - 🌐 [sisiligroupit.com](https://sisiligroupit.com)
 
